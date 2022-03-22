@@ -1,6 +1,12 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+# hello world
+- project: hello-world
+  role: Mastermind
+  duration: 2020 &mdash; Present
+  description: Hello World in 10000 languages
+
 # probot
 - project: probot
   role: Contributor
